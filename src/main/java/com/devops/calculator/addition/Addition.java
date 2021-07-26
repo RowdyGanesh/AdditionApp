@@ -1,7 +1,7 @@
 package com.devops.calculator.addition;
 
 /**
- * Addition of two numbers!
+ * Addition of two numbers !
  *
  */
 
